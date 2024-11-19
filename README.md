@@ -1,4 +1,4 @@
-# INFO4190S10
+# INFO4190S10 JP
 
 The master program is a sorting program that sorts an array or numbers in order from smallest to largest
 
